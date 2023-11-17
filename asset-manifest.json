@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/click-counter/static/css/main.deceb2de.css",
+    "main.js": "/click-counter/static/js/main.d3333608.js",
+    "static/media/michel-colin-logo.png": "/click-counter/static/media/michel-colin-logo.78a386e796bdde40c0a8.png",
+    "index.html": "/click-counter/index.html",
+    "main.deceb2de.css.map": "/click-counter/static/css/main.deceb2de.css.map",
+    "main.d3333608.js.map": "/click-counter/static/js/main.d3333608.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deceb2de.css",
+    "static/js/main.d3333608.js"
+  ]
+}

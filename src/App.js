@@ -22,7 +22,7 @@ function App() {
         <img
         className='freecodecamp-logo'
         src={freeCodeCampLogo}
-        alt='Logo de michel-colin'/>
+        alt='Logo de michel colin'/>
       </div>
       <div className='contenedor-principal'>
         <Contador numClics={numClics} />
